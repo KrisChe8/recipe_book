@@ -6,10 +6,12 @@ A full-stack recipe browser built with **Next.js 14 (App Router)** and **Node.js
 
 ## 📁 Project Structure
 
+```
 recipe_book/
 ├── frontend/ ← React + Next.js + TailwindCSS
 ├── backend/ ← Node.js + Express.js (proxy to TheMealDB)
 └── README.md
+```
 
 ### ✅ Prerequisites
 
@@ -23,7 +25,7 @@ recipe_book/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/recipe_book.git
+git clone https://github.com/KrisChe8/recipe_book
 cd recipe_book
 ```
 
@@ -100,6 +102,6 @@ Category
 
 **Frontend:** React, Next.js 14, TailwindCSS, TypeScript
 
-**Backend:** Node.js, Express.js, Axios
+**Backend:** Node.js, Express.js, Axios, TypeScript
 
 **API Source:** [TheMealDB](https://www.themealdb.com/api.php)
